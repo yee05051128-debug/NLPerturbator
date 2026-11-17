@@ -1,0 +1,7 @@
+lemminflect==0.2.2
+nltk==3.8.1
+openai>=1.40,<3
+python-dotenv==1.0.1
+PyYAML==6.0.1
+spacy==3.4.1
+tqdm==4.63.1
